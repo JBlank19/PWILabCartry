@@ -1,0 +1,7 @@
+
+ Plasma Data
+=============
+
+
+Scan	Vf	Vf Std. Dev.	Vp	Vp Std. Dev.	kTe	kTe Std. Dev.	Ne	Ne Std. Dev.	
+1	12.30466	0	32.33943	0	5.703337	0	1.548086E+10	0	
